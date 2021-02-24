@@ -1,1 +1,1 @@
-https://zetqan.github.io/Zetqan/
+https://zetqan.github.io/Zetqan/index
